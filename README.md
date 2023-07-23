@@ -1,0 +1,2 @@
+# ClockHotelRegressionTests
+ClockHotelRegressionCodility
